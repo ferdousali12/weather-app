@@ -1,5 +1,5 @@
 # Weather Project 
- the live link is https://weatherappbyferdousali.netlify.app/
+ the live link is https://weather-app-ferdous-ali.netlify.app/
 
 Weather Project is a simple and responsive weather web application built using HTML, CSS, and JavaScript. It allows users to search for a city and view the current weather details in a clean card-style interface.
 
